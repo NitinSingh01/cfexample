@@ -1,0 +1,5 @@
+GET Request: https://function-URL/httpRequest
+
+GET Request: https://function-URL/httpRequest/users
+
+POST Request: https://function-URL/httpRequest/users
